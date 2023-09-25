@@ -1,3 +1,35 @@
+nav {
+  justify-content: space-between;
+}
+
 .navbar {
   background-color: lightslategrey;
+  padding: 15px;
+}
+
+.logo {
+  color: crimson;
+}
+
+h3 {
+  display: inline;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+.contact {
+  display: inline;
+  float: right;
+  margin: 0;
+  padding: 0;
 }
