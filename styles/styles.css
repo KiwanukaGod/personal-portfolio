@@ -1,10 +1,6 @@
-nav {
-  justify-content: space-between;
-}
-
 .navbar {
   background-color: lightslategrey;
-  padding: 15px;
+  padding: 10px;
 }
 
 .logo {
@@ -21,15 +17,22 @@ h3 {
 ul {
   list-style-type: none;
   text-align: center;
+  padding: 0;
 }
 
 li {
   display: inline;
+  padding: 10px;
 }
 
 .contact {
   display: inline;
   float: right;
   margin: 0;
-  padding: 0;
+  padding: 8px;
+  background-color: chocolate;
+  color: white;
+  border: chocolate;
+  border-radius: 12px;
+  justify-content: center;
 }
